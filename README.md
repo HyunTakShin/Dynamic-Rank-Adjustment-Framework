@@ -7,7 +7,7 @@ To install the required packages for this project, you can use the `requirements
 * **2. Clone this repository:**
 
    ```bash
-   git clone https://github.com/HyunTakShin/DynamicRankSW
+   git clone https://github.com/HyunTakShin/Dynamic-Rank-Adjustment-Framework
 * **3. Install the required packages:**
     ```bash
    pip3 install -r requirements.txt
